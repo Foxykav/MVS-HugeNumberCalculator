@@ -61,4 +61,3 @@ void removeEndFromDoublyLinkedList (DoublyLinkedList* doublyLinkedList) {
 Digit getDigitByPlaceFromStart (const DoublyLinkedList* doublyLinkedList, unsigned int place) {
     return 0;
 }
-
