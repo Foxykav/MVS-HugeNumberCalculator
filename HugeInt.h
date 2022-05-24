@@ -18,6 +18,7 @@ extern HugeInt* createHugeIntFromHugeInt (const HugeInt* hugeInt, const unsigned
 extern void     deleteHugeInt            (const HugeInt* hugeInt);
 extern int      getHugeIntLength         (const HugeInt* hugeInt);
 extern HugeInt* simplifyHugeInt          (const HugeInt* hugeInt);
+extern void printHugeInt         (const HugeInt* hugeInt);
 
 #endif // !HUGE_INT
 
